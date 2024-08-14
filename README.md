@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -  Name : Suhas Shantharam
 - Personal Email : suhasee.456@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-SuhasShantharam-blue)](https://www.linkedin.com/in/suhas-shantharam-69884892/)
--  🌱 I’m currently learning React framework
+
 
 
